@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gamelist>
+	<game>
+		<path>./Overload.sh</path>
+		<name>Overload</name>
+		<desc>A new six-degree-of-freedom shooter with intuitive controls, amazing lighting and graphics. From the creators of Descent, Overload is the best zero-gravity robot-blasting combat ever.</desc>
+		<image>./overload/cover.png</image>
+		<releasedate>20180531</releasedate>
+		<developer>Revival Productions, LLC</developer>
+		<genre>Action</genre>
+	</game>
+</gamelist>
