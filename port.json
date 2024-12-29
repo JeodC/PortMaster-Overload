@@ -1,0 +1,30 @@
+{
+  "version": 3,
+  "name": "overload.zip",
+  "items": [
+    "Overload.sh",
+    "overload"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Overload",
+    "porter": [
+      "Jeod"
+    ],
+    "desc": "A new six-degree-of-freedom shooter with intuitive controls, amazing lighting and graphics. From the creators of Descent, Overload is the best zero-gravity robot-blasting combat ever.",
+    "desc_md": null,
+    "inst": "Buy the game on Steam or GOG and copy all the data to `overload/data`.",
+    "inst_md": null,
+    "genres": [
+      "action"
+    ],
+    "image": null,
+    "rtr": true,
+    "exp": false,
+    "runtime": null,
+    "reqs": [],
+    "arch": [
+      "aarch64"
+    ]
+  }
+}
